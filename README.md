@@ -25,4 +25,4 @@ A classe **Programa** contém o método `main` e demonstra o funcionamento do si
 ## ▶️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/matheusg0mes/sistema-produtos-java
